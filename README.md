@@ -10,8 +10,6 @@
 
 숫자가 적힌 파일을 입력받아 divde & merge sort 한 후 정렬된 결과를 파일로 저장
 
-<br>
-
 - Multi Process
 
   - POSIX  message queue 를 이용
